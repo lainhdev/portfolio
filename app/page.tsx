@@ -163,6 +163,7 @@ export default function Home() {
             <p>Figma</p>
             <p>Render</p>
             <p>Vercel</p>
+            <p>Amazon Web Service</p>
           </div>
         </div>
       </div>
